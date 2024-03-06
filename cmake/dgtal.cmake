@@ -10,8 +10,8 @@ SET(BUILD_EXAMPLES OFF)
 
 FetchContent_Declare(
     DGtal
-    GIT_REPOSITORY https://github.com/DGtal-team/DGtal.git
-    GIT_TAG bebcc68511d414e6e8a981e666e2b6cc90516135
+    GIT_REPOSITORY https://github.com/elombardi2/DGtal.git
+    GIT_TAG b4538956276e0c4d3e151e5240d91aa2509f2a25
     )
 FetchContent_MakeAvailable(DGtal)
 
